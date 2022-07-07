@@ -37,11 +37,19 @@ This folder takes the information gained in the weather database and uses Google
 
 ### Creating a customer travel destinations map
 
-This folder takes Jupyter's gmaps plugin, user's weather preference inputs and requests to the [Google Maps and Places API]
-In the image below, a map is  shown with the locations of all the places in the database that have an daily maximum temperature between 75 and 90 degrees farinheit - 3 are selected. 
+This folder takes Jupyter's gmaps plugin, user's weather preference inputs and requests to the Google Maps and Places API. In the image below, a map is  shown with the locations of all the places in the database that have an daily maximum temperature between 75 and 90 degrees farinheit - 3 are selected. 
 
 <img width="1332" alt="Screen Shot 2022-07-06 at 9 58 14 PM" src="https://user-images.githubusercontent.com/102444078/177694664-4383b14a-2136-47f6-9442-92822f4528b0.png">
 
 ### Creating a travel itinerary map
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Ukiah, Carson City, Laguna, and Half Moon Bay.
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the two images below shows a 4 stop itinerary in Mexico that incldues the cities of Cabo San Lucas, Puerto Penasco, Muluge, and Ixtapa, as well as information such as hotel name, weather description, and max temp. 
+
+<img width="1333" alt="Screen Shot 2022-07-06 at 10 01 58 PM" src="https://user-images.githubusercontent.com/102444078/177695095-f073e799-abb0-42ac-afcd-21cd260d89d0.png">
+
+
+<img width="1332" alt="Screen Shot 2022-07-06 at 10 02 54 PM" src="https://user-images.githubusercontent.com/102444078/177695182-10cc8890-9120-4fdd-9d68-cf5509395868.png">
+
+
+
+
