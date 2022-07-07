@@ -34,9 +34,12 @@ This folder takes the information gained in the weather database and uses Google
 <img width="991" alt="Screen Shot 2022-07-06 at 9 56 32 PM" src="https://user-images.githubusercontent.com/102444078/177694463-036703ea-5170-472d-8e03-b4bff1798307.png">
 
 
+
 ### Creating a customer travel destinations map
 
-This folder takes Jupyter's gmaps plugin, user's weather preference inputs and requests to the [Google Maps and Places API](https://developers.google.com/places/web-service/search), the app generates a customer travel destinations map.
+This folder takes Jupyter's gmaps plugin, user's weather preference inputs and requests to the [Google Maps and Places API]. In the image below, a map is  shown with the locations of all the places in the database that have an daily maximum temperature between 75 and 90 degrees farinheit - 3 are selected. 
+
+<img width="1332" alt="Screen Shot 2022-07-06 at 9 58 14 PM" src="https://user-images.githubusercontent.com/102444078/177694664-4383b14a-2136-47f6-9442-92822f4528b0.png">
 
 ### Creating a travel itinerary map
 
