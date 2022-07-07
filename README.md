@@ -29,7 +29,10 @@ This project consists of three technical analyses that will provide a more infor
 
 ### Retrieving weather data
 
-This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location.
+This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. In the image below, the database is created useing the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
+
+<img width="991" alt="Screen Shot 2022-07-06 at 9 56 32 PM" src="https://user-images.githubusercontent.com/102444078/177694463-036703ea-5170-472d-8e03-b4bff1798307.png">
+
 
 ### Creating a customer travel destinations map
 
