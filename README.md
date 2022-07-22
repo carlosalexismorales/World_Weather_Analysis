@@ -20,7 +20,7 @@ This project consists of three technical analyses that will provide a more infor
   - Python Python 3.10.5
   - Conda 4.13.0
   - Jupyter Notebook 6.4.11
-  - Pandas 1.4.1
+  - Pandas 1.4.2
   - citipy
   - Google Maps and Places API
   - Google Maps Directions API
