@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This analysis looks at PlanMyTrip, travel company that specializes in using technology and internet related services in the hotel and lodging industry. This assignment provides information and insight for consumers to look at when planning their trips such as different weather patterns around the globe.
+This analysis looks at PlanMyTrip, travel company that specializes in using technology and internet related services in the hotel and lodging industry. This assignment provides information and insight for consumers to look at when planning their trips such as different weather patterns around the globe. CSV files are used as data resources. 
 
 This project consists of three technical analyses that will provide a more informative and helpful experience for consumers:
 
